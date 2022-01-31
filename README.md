@@ -1,1 +1,1 @@
-# RAI-Whitepaper-Turkish
+# Translated the RAI whitepaper from English to Turkish.
